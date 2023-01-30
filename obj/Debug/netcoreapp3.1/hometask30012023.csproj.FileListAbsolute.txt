@@ -1,0 +1,14 @@
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\bin\Debug\netcoreapp3.1\hometask30012023.exe
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\bin\Debug\netcoreapp3.1\hometask30012023.deps.json
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\bin\Debug\netcoreapp3.1\hometask30012023.runtimeconfig.json
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\bin\Debug\netcoreapp3.1\hometask30012023.runtimeconfig.dev.json
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\bin\Debug\netcoreapp3.1\hometask30012023.dll
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\bin\Debug\netcoreapp3.1\hometask30012023.pdb
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\obj\Debug\netcoreapp3.1\hometask30012023.csproj.AssemblyReference.cache
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\obj\Debug\netcoreapp3.1\hometask30012023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\obj\Debug\netcoreapp3.1\hometask30012023.AssemblyInfoInputs.cache
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\obj\Debug\netcoreapp3.1\hometask30012023.AssemblyInfo.cs
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\obj\Debug\netcoreapp3.1\hometask30012023.csproj.CoreCompileInputs.cache
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\obj\Debug\netcoreapp3.1\hometask30012023.dll
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\obj\Debug\netcoreapp3.1\hometask30012023.pdb
+C:\Users\nihatet\source\repos\hometask30012023\hometask30012023\obj\Debug\netcoreapp3.1\hometask30012023.genruntimeconfig.cache
